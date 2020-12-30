@@ -1,0 +1,11 @@
+{
+  "name": "guardition",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "purescript": "^0.13.8",
+    "purty": "^6.3.0",
+    "spago": "^0.18.1"
+  }
+}
